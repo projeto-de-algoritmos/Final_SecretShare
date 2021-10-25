@@ -1,45 +1,67 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Final_SecretShare
 
 Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
 
-# NomedoProjeto
+- Final
 
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+# SecretShare
+
+**Número da Lista**: 14<br>
+**Conteúdo da Disciplina**: Grafos2 e Hoffman <br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
 
-## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+| Matrícula  | Aluno                                           |
+| ---------- | ----------------------------------------------- |
+| 16/0119553 | 👨‍💻 Felipe Campos de Almeida                     |
+| 16/0005736 | 👩‍💻 Fabiana Luiza Vasconcelos Pfeilsticker Ribas |
 
-## Screenshots
-Adicione 3 ou mais screenshots do projeto em funcionamento.
+## Sobre ℹ️
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
-**Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+### :video_camera: Video
 
-## Uso 
-Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
+[Assista aqui!]()
 
-## Outros 
-Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
+## 📷 Screenshots
 
+Retorno da execução do projeto. Gráfico que representa o tempo em que o algoritmo passa dividindo e conquistando.
 
+![runtime](img/runtime.jpg)
 
+## ⚙️ Instalação
 
+**Linguagem**:<br>
+🐍 Python<br>
+:yellow_heart: JS<br>
+
+### Para distribuição Linux 🐧 :
+
+1. [Clone](https://help.github.com/en/articles/cloning-a-repository) o repositório do projeto. Para clonar vá ao terminal e digite:
+
+```
+$ git clone https://github.com/projeto-de-algoritmos/Final_SecretShare.git
+```
+
+2. Entre na pasta do projeto:
+
+```
+$ cd Final_SecretShare
+```
+
+3. Antes de compilar o projeto, instale as dependências:
+
+```
+$
+```
+
+4. Para compilar o projeto, execute o comando:
+
+```
+$
+```
+
+4. Depois de realizar todos esses passos, aproveite o projeto e divirta-se!
+
+## Outros
+
+Referências: []()
