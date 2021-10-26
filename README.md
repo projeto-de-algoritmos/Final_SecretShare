@@ -18,6 +18,8 @@ Temas:
 
 ## Sobre ℹ️
 
+Baseado nas principais funcionalidades do Tweeter o SecretShare utiliza grafos e código de hoffman para seguir perfis, compartilhar seguredos criptografados com o codigo de hoffman e traduzir essese segredos de volta a mensagem original. 
+
 ### :video_camera: Video
 
 [Assista aqui!]()
@@ -51,13 +53,13 @@ $ cd Final_SecretShare
 3. Antes de compilar o projeto, instale as dependências:
 
 ```
-$
+$ pip install -r requirements.txt
 ```
 
 4. Para compilar o projeto, execute o comando:
 
 ```
-$
+$ uvicorn main:app --reload
 ```
 
 4. Depois de realizar todos esses passos, aproveite o projeto e divirta-se!
