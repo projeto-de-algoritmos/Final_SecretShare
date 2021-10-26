@@ -18,7 +18,7 @@ Temas:
 
 ## Sobre ℹ️
 
-Baseado nas principais funcionalidades do Tweeter o SecretShare utiliza grafos e código de hoffman para seguir perfis, compartilhar seguredos criptografados com o codigo de hoffman e traduzir essese segredos de volta a mensagem original. 
+Baseado nas principais funcionalidades do Tweeter o SecretShare utiliza grafos e código de hoffman para seguir perfis, compartilhar seguredos criptografados com o codigo de hoffman e traduzir esses segredos de volta a mensagem original. 
 
 ### :video_camera: Video
 
