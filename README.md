@@ -22,7 +22,7 @@ Baseado nas principais funcionalidades do Tweeter o SecretShare utiliza grafos e
 
 ### :video_camera: Video
 
-[Assista aqui!]()
+[Assista aqui!](https://drive.google.com/file/d/1eKGyxBJ85nT-ivH7MAIYsdEIfJ0wx7CX/view?usp=sharing)
 
 ## 📷 Screenshots
 
